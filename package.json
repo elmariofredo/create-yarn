@@ -1,0 +1,9 @@
+{
+  "name": "create-yarn",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/elmariofredo/create-yarn.git",
+  "author": "elmariofredo <mario@vejlupek.cz>",
+  "license": "MIT",
+  "bin": "index.js"
+}
