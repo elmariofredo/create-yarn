@@ -1,0 +1,2 @@
+# create-yarn
+Infinity 🤣
